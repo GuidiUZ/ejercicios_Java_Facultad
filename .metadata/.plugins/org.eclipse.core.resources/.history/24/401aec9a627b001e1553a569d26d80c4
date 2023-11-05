@@ -1,0 +1,16 @@
+package arrayLists;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Array_lists {
+
+	
+	
+	public static void main(String[] args) {
+		
+		List<Persona> lista = new ArrayList<Persona>();
+		lista.add(new Persona("guido", 1, 1));
+	}
+	
+}

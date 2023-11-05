@@ -1,0 +1,22 @@
+package arrayLists;
+
+public class Persona {
+
+	private String name;
+	private int num;
+	private int edad;
+	
+	private Persona() {
+		
+	}
+	
+	private Persona(String name, int num, int edad) {
+		this.name = name;
+		this.num = num;
+		this.edad = edad;
+	}
+	
+	
+	
+	
+}

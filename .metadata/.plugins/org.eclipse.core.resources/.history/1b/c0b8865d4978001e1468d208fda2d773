@@ -1,0 +1,23 @@
+package main;
+
+import java.io.IOException;
+import java.util.Map;
+
+public class Ventas {
+    private Map<String, Integer> ventasPorProducto;
+    public Ventas() { 
+    	
+    }
+    
+    public void leerVentas(String entrada) {
+    	
+    }
+   
+    public void escribirVentasPorProducto(String salida) { 
+    	
+    }
+    
+    public static void main(String[] args) throws IOException { 
+    	
+    }
+}

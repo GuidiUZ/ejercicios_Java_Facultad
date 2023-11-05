@@ -1,0 +1,13 @@
+package main;
+
+import java.util.List;
+
+public class RENAPER {
+
+	private List<Persona> personas;
+	
+	public RENAPER() {
+		personas = new LinkedList<Persona>();
+	}
+	
+}

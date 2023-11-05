@@ -1,0 +1,12 @@
+package main;
+
+public class Lectura {
+
+	public static void main(String[] args) {
+
+		File file = new File("resources/Personas.txt");
+		
+
+	}
+
+}

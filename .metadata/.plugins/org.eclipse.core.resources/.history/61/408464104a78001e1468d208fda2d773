@@ -1,0 +1,40 @@
+package main;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+
+public class Ventas {
+    private Map<String, Integer> ventasPorProducto;
+    public Ventas() { 
+    	ventasPorProducto = new HashMap<String, Integer>();
+    }
+    
+    public void leerVentas(String entrada) {
+    	try {
+    		File archivo = new File(entrada);
+    		BufferedReader lector = new BufferedReader(new FileReader archivo);
+    		String linea;
+    		
+    		while ((linea = lector.readLine()) != null) {
+    			String [] lineaSpliteada = linea.split(" ");
+    			String codigoProducto = lineaSpliteada[1];
+    			Integer cantidadVentas = Integer.parseInt(lineaSpliteada[1]);
+    		}
+    	
+    	
+    	}  catch() {
+    		
+    	}
+    }
+   
+    public void escribirVentasPorProducto(String salida) { 
+    	
+    }
+    
+    public static void main(String[] args) throws IOException { 
+    	
+    }
+}

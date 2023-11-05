@@ -1,0 +1,20 @@
+package main;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class RENAPER {
+
+	private List<Persona> personas;
+	
+	public RENAPER() {
+		personas = new LinkedList<Persona>();
+	}
+	
+	
+	public void agregarPersona(Persona p) {
+		
+		if ((p == null) || (p.getEdad() != -1)) throw new IllegalArgumentException();
+		
+	}
+}

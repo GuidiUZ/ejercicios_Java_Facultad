@@ -1,0 +1,13 @@
+package main;
+
+import java.io.File;
+
+public class Persistencia {
+
+	public static void main(String[] args) {
+		
+		File file = new File("resources/Personas.txt");
+
+	}
+
+}

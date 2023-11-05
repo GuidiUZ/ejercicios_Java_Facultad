@@ -1,0 +1,12 @@
+package arrayLists;
+
+public class Persona {
+
+	private String name;
+	private int num;
+	private int edad;
+	
+	
+	
+	
+}

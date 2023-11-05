@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;polimorfismo_supermercado&apos; to &apos;supermercado&apos;&#x0D;&#x0A;- Original project: &apos;ejerciciosFacu&apos;&#x0D;&#x0A;- Original element: &apos;ejerciciosFacu/src/polimorfismo_supermercado&apos;&#x0D;&#x0A;- Renamed element: &apos;ejerciciosFacu/src/supermercado&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;polimorfismo_supermercado&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;polimorfismo_supermercado" name="supermercado" qualified="false" references="true" stamp="1695337902807" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,7 @@
+package main;
+
+public class RENAPER {
+
+	private List<Persona> personas;
+	
+}

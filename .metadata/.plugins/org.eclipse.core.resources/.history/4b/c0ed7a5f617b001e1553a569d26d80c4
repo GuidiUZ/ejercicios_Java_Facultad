@@ -1,0 +1,15 @@
+package arrayLists;
+
+import java.util.ArrayList;
+
+public class Array_lists {
+
+	
+	
+	public static void main(String[] args) {
+		
+		List<Persona> lista = new ArrayList<Persona>();
+		
+	}
+	
+}
